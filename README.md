@@ -1,2 +1,2 @@
-# Sentiment-Analysis---Python-
-Developing predictive model to identify the sentiment of the customer
+Business Analyst / Data Analyst 
+Experienced in SQL, Python, Tableau, PowerBI, AWS
